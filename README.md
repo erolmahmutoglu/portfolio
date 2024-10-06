@@ -1,4 +1,4 @@
-# Dillion Verma Portfolio
+# Portfolio
 
 Welcome to the repository for my portfolio. This project showcases my work, skills, and experiences.
 
