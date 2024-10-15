@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Erol Mahmutoğlu",
   initials: "EM",
-  url: "https://dillion.io",
+  url: "https://erol-mahmutoglu.vercel.app/",
   location: "İzmir, Turkey",
   locationLink: "https://www.google.com/maps/place/Izmir",
   description:
@@ -29,27 +29,24 @@ export const DATA = {
   ],
   contact: {
     email: "erol.mahmutoglu@outlook.com",
-    tel: "+905425891098456789",
+    tel: "+905425891098",
     social: {
       GitHub: {
         name: "GitHub",
         url: "https://github.com/erol1098",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/erol-mahmutoglu/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       X: {
         name: "X",
         url: "https://twitter.com",
         icon: Icons.x,
-
         navbar: false,
       },
       Youtube: {
@@ -62,7 +59,6 @@ export const DATA = {
         name: "Send Email",
         url: "mailto:erol.mahmutoglu@outlook.com",
         icon: Icons.email,
-
         navbar: true,
       },
     },
@@ -88,7 +84,7 @@ export const DATA = {
       location: "Remote",
       title: "Frontend Developer",
       logoUrl: "/ilgilen.svg",
-      start: "June 2023",
+      start: "August 2022",
       end: "January 2024",
       description:
         "As a front-end developer in the ilgilen.com.tr website project, I had the opportunity to contribute to the development of a modern and user-friendly website that connects elderly care professionals with customers in Turkey. My responsibilities included collaborating with the project team to develop website features, designing and implementing website layouts, and ensuring website performance optimization.",
@@ -120,7 +116,7 @@ export const DATA = {
       href: "ttps://clarusway.com/",
       degree: "Full-Stack Web Development Bootcamp",
       logoUrl: "/clarusway.jpeg",
-      start: "2021",
+      start: "2022",
       end: "2022",
     },
     {
@@ -140,7 +136,6 @@ export const DATA = {
       active: true,
       description:
         "Developed a landing page for the company's new product, Temax. The company give this product to approximately 50 hotels as a service. The website allows hotels to get reservations. The website was built using Next.js, React, and Bootstrap.",
-
       technologies: ["Next.js", "React", "Bootstrap"],
       links: [
         {
@@ -160,11 +155,10 @@ export const DATA = {
     {
       title: "İlgilen Bakım Hizmetleri",
       href: "https://www.ilgilen.com.tr/",
-      dates: "Jun 2023 - Apr 2024",
+      dates: "Aug 2022 - Aug 2023",
       active: true,
       description:
         "Developed a website for a company that connects elderly care professionals with customers in Turkey. The website allows customers to search for and book care services, and professionals to create profiles and list their services. The website was built using Next.js, React, and Bootstrap.",
-
       technologies: ["Next.js", "React", "Bootstrap"],
       links: [
         {
