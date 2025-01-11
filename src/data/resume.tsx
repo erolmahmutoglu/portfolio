@@ -130,12 +130,30 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "otelfiyat.com",
+      href: "https://otelfiyat.vercel.app/tr",
+      dates: "Sep 2024 - Present",
+      active: true,
+      description:
+        "Developed and maintained the frontend of the company's website using TypeScript, React, Next.js, and TailwindCSS. Worked closely with the design team to implement new features and improve the user experience. Collaborated with the backend team to integrate APIs and ensure data consistency. Implemented responsive design and cross-browser compatibility to ensure a seamless experience for all users. It is in progress and will be released in January 2025.",
+      technologies: ["TypeScript", "React", "Next.js", "TailwindCSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://otelfiyat.vercel.app/tr",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/otelfiyat.png",
+      video: "",
+    },
+    {
       title: "İdeal Tur Temax",
       href: "https://premium-temax.vercel.app/",
       dates: "Apr 2024 - Jun 2024",
       active: true,
       description:
-        "Developed a landing page for the company's new product, Temax. The company give this product to approximately 50 hotels as a service. The website allows hotels to get reservations. The website was built using Next.js, React, and Bootstrap.",
+        "Developed a landing page for the company's new product, Temax. The company give this product to more than 100 hotels as a service. The website allows hotels to get reservations. The website was built using Next.js, React, and Bootstrap.",
       technologies: ["Next.js", "React", "Bootstrap"],
       links: [
         {
@@ -145,7 +163,7 @@ export const DATA = {
         },
         {
           type: "Website",
-          href: "https://sentinusotel.com/",
+          href: "https://www.thesignkocaeli.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
